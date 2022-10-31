@@ -8,8 +8,8 @@ from aiogram import Bot, Dispatcher, executor, types
 
 import aiogram
 from aiogram.dispatcher import FSMContext
-
-API_TOKEN = '5746797527:AAGdSqgTCuFIkncAAPinoyTV0i4vAlO1C-I'
+#dkdhjdjdh
+API_TOKEN = 'TOKEN'
 swish = False
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot=bot)
